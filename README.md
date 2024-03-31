@@ -6,9 +6,9 @@ Software Developer
 
 I've always been curious, the older I get I have come to the realization that there is not enough time to quench my curiosity about everything I want to know, regardless I keep on learning.
 
-* 🌍  I'm based in Kitengela, Kenya.
+* 🌍  I'm based in Kisumu, Kenya.
 * ✉️  You can contact me at [oguda@hey.com](mailto:oguda@hey.com)
-* 🧠  I'm learning Elixir , Crystal and Typescript.
+* 🧠  I'm learning Elixir , Go and Python.
 * 🤝  I'm open to collaborating on interesting projects.
 * ⚡  MF DOOM
 
