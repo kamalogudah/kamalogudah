@@ -8,7 +8,7 @@ I've always been curious, the older I get I have come to the realization that th
 
 * 🌍  I'm based in Kisumu, Kenya.
 * ✉️  You can contact me at [https://x.com/kamalogudah](https://x.com/kamalogudah)
-* 🧠  I'm learning Elixir , Go and Python.
+* 🧠  I'm learning ~~Elixir~~, Rust.
 * 🤝  I'm open to collaborating on interesting projects.
 * ⚡  MF DOOM
 
