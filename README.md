@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I've always been curious, the older I get I have come to the realization that there is not enough time to quench my curiosity about everything I want to know, regardless I keep on learning.
+It still feels like day one...
 
 * 🌍  I'm based in Kisumu, Kenya.
 * ✉️  You can contact me at [https://x.com/kamalogudah](https://x.com/kamalogudah)
